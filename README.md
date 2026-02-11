@@ -26,4 +26,5 @@ I am seeking a cyber security–focused role such as a **SOC Analyst, Cyber Secu
 ---
 
 *BSc Cyber Security (2:1) | Microsoft Certified: Security, Compliance, and Identity Fundamentals*  
+
 📌 *This repository showcases hands-on cyber security work and the TM470 final project, highlighting practical offensive and defensive security skills.*
