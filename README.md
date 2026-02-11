@@ -2,7 +2,7 @@
 🔗 www.linkedin.com/in/michaelallen09  
 
 ## Introduction
-I am a recent Cyber Security (BSc) graduate with a strong interest in security operations, threat detection, and defensive security across enterprise environments.
+I am a recent Cyber Security (BSc) graduate with over five years experience in the IT industry, a strong interest in security operations, threat detection, and defensive security across enterprise environments.
 
 ## Objective
 To transition into a cyber security–focused role such as a **SOC Analyst, Cyber Security Analyst, or Security Engineer**, where I can apply hands-on technical experience, security best practices, and continuous learning to help protect systems, networks, and data.
