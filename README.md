@@ -1,5 +1,5 @@
 # Hello, I'm Michael  
-🔗 [LinkedIn](https://www.linkedin.com/in/michaelallen09)
+[LinkedIn](https://www.linkedin.com/in/michaelallen09)
 
 ## Introduction
 I am a BSc (Hons) Cyber Security graduate with over five years of IT industry experience and a strong interest in security operations, threat detection, and defensive security across enterprise environments.
@@ -9,7 +9,7 @@ I am seeking a security-focused role such as SOC Analyst, Cyber Security Analyst
 
 ---
 
-## 🔎 Featured Project  
+## Featured Project  
 # **TM470 – Cloud Penetration Testing and Defensive Mitigation**
 
 A final-year cyber security project demonstrating practical offensive and defensive security skills through a full cloud attack simulation and remediation process.
@@ -21,7 +21,7 @@ A final-year cyber security project demonstrating practical offensive and defens
 - Conducted a full **risk assessment**, implemented mitigations, and re-tested the environment
 - Demonstrated both offensive techniques and defensive hardening
 
-📂 **[Explore the Project Folder](Cloud_Pentest_Simulation/)**
+**[Explore the Project Folder](Cloud_Pentest_Simulation/)**
 
 ### **Artifacts Included**
 - Architecture diagrams  
