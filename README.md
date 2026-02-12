@@ -2,29 +2,42 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/michaelallen09)
 
 ## Introduction
-I am a recent BSc (Hons) Cyber Security graduate with over five years of IT industry experience and a strong interest in security operations, threat detection, and defensive security across enterprise environments.
+I am a BSc (Hons) Cyber Security graduate with over five years of IT industry experience and a strong interest in security operations, threat detection, and defensive security across enterprise environments.
 
 ## Objective
-I am seeking a cyber security–focused role such as a SOC Analyst, Cyber Security Analyst, or Security Engineer, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
+I am seeking a security-focused role such as SOC Analyst, Cyber Security Analyst, or Security Engineer, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
 
 ---
 
-## Featured Project
+## 🔎 Featured Project  
+# **TM470 – Cloud Penetration Testing and Defensive Mitigation**
 
-### TM470 – Cloud Penetration Testing and Defensive Mitigation
-**Final-year computing project demonstrating practical cyber security skills:**
+A final-year cyber security project demonstrating practical offensive and defensive security skills through a full cloud attack simulation and remediation process.
 
-- Created a virtualised cloud environment using Proxmox, Zentyal, and Nextcloud
-- Simulated a Man-in-The-Cloud (MiTC) attack
-- Evaluated defensive controls with IDS/IPS and log monitoring  
-- Conducted risk assessment, implemented mitigations, and performed post-remediation evaluation  
+### **Project Highlights**
+- Built a virtualised cloud environment using **Proxmox**, **Zentyal**, and **Nextcloud**
+- Simulated a **Man-in-the-Cloud (MiTC)** attack from end to end
+- Evaluated defensive controls using **IDS/IPS** and log monitoring
+- Conducted a full **risk assessment**, implemented mitigations, and re-tested the environment
+- Demonstrated both offensive techniques and defensive hardening
 
-📂 [Explore Project Folder](./TM470_Cloud_Pentest/)
+📂 **[Explore the Project Folder](cloud-pentest-mitc/)**
 
-*Artifacts included:* architecture diagrams, network layouts, screenshots of attacks, IDS/SIEM outputs, and configuration scripts.
+### **Artifacts Included**
+- Architecture diagrams  
+- Network layouts  
+- Attack walk-throughs  
+- Screenshots (MiTC exploitation, token capture, IDS output)  
+- Configuration details (IAM, client sync, server setup)  
+- Mitigation tables and evaluation notes  
 
 ---
 
-*BSc Cyber Security (2:1) | Microsoft Certified: Security, Compliance, and Identity Fundamentals*  
+## Education & Certifications
+- **BSc (Hons) Cyber Security – 2:1**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
+- **Microsoft Certified: Azure Fundamentals**
 
-📌 *This repository showcases hands-on cyber security work and the TM470 final project, highlighting practical offensive and defensive security skills.*
+---
+
+📌 This repository showcases hands-on cyber security work, focusing on practical offensive testing, defensive mitigation, identity management, and incident detection.
