@@ -19,7 +19,7 @@ I am seeking a cyber security–focused role such as a SOC Analyst, Cyber Securi
 - Evaluated defensive controls with IDS/IPS and log monitoring  
 - Conducted risk assessment, implemented mitigations, and performed post-remediation evaluation  
 
-📂 [Explore Project Folder](./TM470-Cloud-Pentest/)
+📂 [Explore Project Folder](./TM470_Cloud_Pentest/)
 
 *Artifacts included:* architecture diagrams, network layouts, screenshots of attacks, IDS/SIEM outputs, and configuration scripts.
 
