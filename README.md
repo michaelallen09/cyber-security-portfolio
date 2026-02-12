@@ -40,4 +40,4 @@ A final-year cyber security project demonstrating practical offensive and defens
 
 ---
 
-📌 This repository showcases hands-on cyber security work, focusing on practical offensive testing, defensive mitigation, identity management, and incident detection.
+This repository showcases hands-on cyber security work, focusing on practical offensive testing, defensive mitigation, identity management, and incident detection.
