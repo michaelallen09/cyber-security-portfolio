@@ -21,7 +21,7 @@ A final-year cyber security project demonstrating practical offensive and defens
 - Conducted a full **risk assessment**, implemented mitigations, and re-tested the environment
 - Demonstrated both offensive techniques and defensive hardening
 
-📂 **[Explore the Project Folder](cloud_pentest_mitc/)**
+📂 **[Explore the Project Folder](Cloud_Pentest_MitC/)**
 
 ### **Artifacts Included**
 - Architecture diagrams  
