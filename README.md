@@ -16,7 +16,7 @@ A final-year cyber security project demonstrating practical offensive and defens
 
 ### **Project Highlights**
 - Built a virtualised cloud environment using **Proxmox**, **Zentyal**, and **Nextcloud**
-- Simulated a **Man-in-the-Cloud (MiTC)** attack from end to end
+- Simulated a **Man-in-the-Cloud (MitC)** attack from end to end
 - Evaluated defensive controls using **IDS/IPS** and log monitoring
 - Conducted a full **risk assessment**, implemented mitigations, and re-tested the environment
 - Demonstrated both offensive techniques and defensive hardening
@@ -27,7 +27,7 @@ A final-year cyber security project demonstrating practical offensive and defens
 - Architecture diagrams  
 - Network layouts  
 - Attack walk-throughs  
-- Screenshots (MiTC exploitation, token capture, IDS output)  
+- Screenshots (MitC exploitation, token capture, IDS output)  
 - Configuration details (IAM, client sync, server setup)  
 - Mitigation tables and evaluation notes  
 
