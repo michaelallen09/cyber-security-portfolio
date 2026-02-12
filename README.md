@@ -5,7 +5,7 @@
 I am a recent BSc (Hons) Cyber Security graduate with over five years of IT industry experience and a strong interest in security operations, threat detection, and defensive security across enterprise environments.
 
 ## Objective
-I am seeking a cyber security–focused role such as a **SOC Analyst, Cyber Security Analyst, or Security Engineer**, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
+I am seeking a cyber security–focused role such as a SOC Analyst, Cyber Security Analyst, or Security Engineer, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
 
 ---
 
