@@ -24,12 +24,8 @@ A final-year cyber security project demonstrating practical offensive and defens
 **[Explore the Project Folder](Cloud_Pentest_Simulation/)**
 
 ### **Artifacts Included**
-- Architecture diagrams  
-- Network layouts  
-- Attack walkthroughs  
-- Screenshots (MitC exploitation, token capture, IDS output)  
-- Configuration details (IAM, client sync, server setup)  
-- Mitigation tables and evaluation notes  
+- Architecture diagrams      
+- Screenshots (MitC exploitation, token capture, IDS output)
 
 ---
 
