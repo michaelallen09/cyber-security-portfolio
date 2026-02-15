@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/michaelallen09)
 
 ## Introduction
-I am a BSc (Hons) Cyber Security graduate with over five years of IT industry experience and a strong interest in security operations, threat detection, identity management, and defensive/offensive security.
+BSc (Hons) Cyber Security graduate with over five years’ IT industry experience, focused on security operations, threat detection, identity management, and both defensive and offensive security.
 
 ## Objective
 I am seeking a security-focused role such as Junior SOC Analyst, Cyber Security Analyst, or Security Engineer, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
