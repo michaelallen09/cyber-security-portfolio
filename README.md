@@ -10,12 +10,12 @@ I am seeking a security-focused role such as Junior SOC Analyst, Cyber Security 
 ---
 
 ## Featured Project  
-# **Cloud Security: Penetration Testing Simulation**
+# **Cloud Security: Man-in-the-Cloud (MitC) Attack Simulation**
 
 My final-year cyber security project demonstrates practical offensive exploitation, detection validation, and structured mitigation through a full cloud attack simulation and remediation cycle.
 
 ### **Project Highlights**
-- Built a nested virtualised cloud lab (VirtualBox) hosting Proxmox VE, Zentyal IAM, Nextcloud, Windows 10, Kali Linux, and Snort IDS/IPS.
+- Built a nested virtualised lab (VirtualBox → Proxmox VE) hosting Zentyal IAM, Nextcloud, Windows 10, Kali Linux, and Snort IDS/IPS.
 - Simulated a full Man-in-the-Cloud (MitC) attack, including token capture and API-based data exfiltration.
 - Evaluated defensive controls using IDS/IPS and log monitoring.
 - Performed a complete risk assessment, implemented security mitigations, and re-tested the environment.
