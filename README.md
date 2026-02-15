@@ -16,10 +16,10 @@ My final-year cyber security project demonstrates practical offensive exploitati
 
 ### **Project Highlights**
 - Built a nested virtualised lab (VirtualBox → Proxmox VE) hosting Zentyal IAM, Nextcloud, Windows 10, Kali Linux, and Snort IDS/IPS.
-- Simulated a full Man-in-the-Cloud (MitC) attack, including token capture and API-based data exfiltration.
-- Evaluated defensive controls using IDS/IPS and log monitoring.
-- Performed a complete risk assessment, implemented security mitigations, and re-tested the environment.
-- Demonstrated both offensive techniques and defensive hardening.
+- Simulated a full Man-in-the-Cloud (MitC) attack, including token capture and API-based data exfiltration
+- Evaluated defensive controls using IDS/IPS and log monitoring
+- Performed a complete risk assessment, implemented security mitigations, and re-tested the environment
+- Demonstrated both offensive techniques and defensive hardening
 
 **[Explore the Project Folder](Cloud_Pentest_Simulation/)**
 
