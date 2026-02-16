@@ -2,10 +2,11 @@
 [LinkedIn](https://www.linkedin.com/in/michaelallen09)
 
 ## Introduction
-BSc (Hons) Cyber Security graduate with over five years’ IT industry experience, focused on security operations, threat detection, identity management, and both defensive and offensive security.
+BSc (Hons) Cyber Security graduate with over five years’ experience in IT infrastructure and operations, now specialising in security operations, threat detection, and identity management.
 
-## Objective
-I am seeking a security-focused role such as Junior SOC Analyst, Cyber Security Analyst, or Security Engineer, where I can apply hands-on technical experience, security best practices, and continuous learning to protect systems, networks, and data.
+This repository showcases hands-on lab projects including attack simulation, detection testing, log investigation, and mitigation exercises across cloud and virtualised environments.
+
+Focused on developing practical capability in incident response and defensive security engineering.
 
 ---
 
