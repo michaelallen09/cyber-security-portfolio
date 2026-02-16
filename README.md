@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/michaelallen09)
 
 ## Introduction
-BSc (Hons) Cyber Security graduate with over five years’ experience in IT infrastructure and operations, now specialising in security operations, threat detection, and identity management.
+BSc (Hons) Cyber Security graduate with over five years’ experience in IT infrastructure and operations, progressively focusing on security operations, threat detection, identity management, and both defensive and offensive security.
 
 This repository showcases hands-on lab projects including attack simulation, detection testing, log investigation, and mitigation exercises across cloud and virtualised environments.
 
