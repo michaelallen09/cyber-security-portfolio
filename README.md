@@ -16,7 +16,7 @@ Focused on developing practical capability in incident response and defensive se
 My final-year cyber security project demonstrates practical offensive exploitation, detection validation, and structured mitigation through a full cloud attack simulation and remediation cycle.
 
 ### **Project Highlights**
-- Built a nested virtualised lab (VirtualBox → Proxmox VE) hosting Zentyal IAM, Nextcloud, Windows 10, Kali Linux, and Snort IDS/IPS.
+- Built a nested virtualised lab (within VirtualBox) hosting Zentyal IAM, Nextcloud, Windows 10, Kali Linux, and Snort IDS/IPS.
 - Simulated a full Man-in-the-Cloud (MitC) attack, including token capture and API-based data exfiltration
 - Evaluated defensive controls using IDS/IPS and log monitoring
 - Performed a complete risk assessment, implemented security mitigations, and re-tested the environment
