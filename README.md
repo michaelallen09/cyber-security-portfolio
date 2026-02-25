@@ -23,7 +23,7 @@ Cloud-based attack simulation and defensive control validation.
 - Risk assessment and mitigation implementation  
 - Control re-testing and validation  
 
-[Explore the Project Folder](Cloud_Pentest_Simulation/)
+[Explore the MitC Project Lab](Cloud_Pentest_Simulation/)
 
 ---
 
