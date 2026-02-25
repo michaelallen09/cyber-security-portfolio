@@ -25,7 +25,7 @@ My final-year cyber security project demonstrates practical offensive exploitati
 **[Explore the Project Folder](Cloud_Pentest_Simulation/)**
 
 ### **Artifacts Included**
-- Architecture diagrams      
+- Architecture diagram      
 - Screenshots (MitC exploitation, token capture, IDS output)
 
 ---
