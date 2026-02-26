@@ -9,7 +9,7 @@ Alongside hands-on industry experience, university study introduced structured a
 
 Currently seeking an entry-level role within IT security where I can apply both operational experience and academic knowledge in a security-focused capacity.
 
-This repository documents structured lab environments demonstrating deployment, log ingestion, baseline monitoring, attack simulation, and defensive validation across virtualised and cloud-integrated systems.
+This repository documents structured lab environments demonstrating deployment, log ingestion, baseline monitoring, attack simulation, and defensive validation across virtualised ystems.
 
 ---
 
