@@ -3,11 +3,13 @@
 
 ## Introduction
 
-I am a recent Cyber Security BSc (Hons) graduate with over five years’ experience in IT engineering across cloud-first environments. My professional background spans infrastructure support, identity management, and endpoint administration, providing a practical foundation for security operations and defensive security work.
+I am a recent Cyber Security BSc (Hons) graduate with over five years’ experience in IT engineering across cloud-first environments. My professional background includes infrastructure support, identity management, and endpoint administration, which has provided direct exposure to security controls, incident handling, and system hardening.
 
-Currently seeking IT security-related roles within Security Operations, Threat Detection, Incident Response, and Cloud Security.
+Alongside hands-on industry experience, university study introduced structured academic foundations in security principles, attack methodologies, and defensive practices, which I continue to develop through practical lab environments.
 
-This repository documents structured security lab environments developed to demonstrate controlled deployment, log ingestion, baseline detection, attack simulation, and defensive validation across virtualised and cloud-integrated systems.
+Currently seeking an entry-level role within IT security where I can apply both operational experience and academic knowledge in a security-focused capacity.
+
+This repository documents structured lab environments demonstrating deployment, log ingestion, baseline monitoring, attack simulation, and defensive validation across virtualised and cloud-integrated systems.
 
 ---
 
@@ -39,8 +41,21 @@ Structured SIEM deployment focused on log ingestion and baseline monitoring.
 
 ---
 
-## Education and Certifications
+## Education
 
-- BSc (Hons) Cyber Security – 2:1  
+BSc (Hons) Cyber Security – 2:1  
+
+Relevant modules included:
+- Cyber Security  
+- Information Security  
+- Penetration Testing  
+
+---
+
+## Certifications
+
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals  
-- Microsoft Certified: Azure Fundamentals  
+- Microsoft Certified: Azure Fundamentals
+- Cisco: CCNA – Switching, Routing and Wireless Essentials
+- Cisco: DevNet Associate
+- Cisco: Networking Essentials
