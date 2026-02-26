@@ -29,7 +29,7 @@ Cloud-based attack simulation and defensive control validation.
 
 ---
 
-### Splunk SIEM Deployment Lab
+### Splunk SIEM Deployment Lab (in progress)
 
 Structured SIEM deployment focused on log ingestion and baseline monitoring.
 
