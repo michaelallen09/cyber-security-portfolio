@@ -33,11 +33,11 @@ Cloud-based attack simulation and defensive control validation.
 
 Structured SIEM deployment focused on log ingestion and baseline monitoring.
 
-- Architecture design and log flow mapping  
-- Splunk installation and forwarder configuration  
-- Sysmon deployment and endpoint telemetry collection  
-- Log ingestion validation and event verification  
-- Baseline detection queries for authentication and process activity  
+- Architecture and log flow mapping
+- Splunk + forwarder configuration
+- Sysmon telemetry collection
+- Ingestion validation
+- Baseline SPL detections (auth + process activity)
 
 ---
 
