@@ -7,7 +7,7 @@ I am a recent Cyber Security BSc (Hons) graduate with over five years’ experie
 
 Alongside hands-on industry experience, university study introduced structured academic foundations in security principles, attack methodologies, and defensive practices, which I continue to develop through practical lab environments.
 
-Currently seeking an entry-level role within IT security where I can apply both operational experience and academic knowledge in a security-focused capacity.
+I'm currently seeking an entry-level role within IT security where I can apply both operational experience and academic knowledge in a security-focused capacity.
 
 This repository documents structured lab environments demonstrating deployment, log ingestion, baseline monitoring, attack simulation, and defensive validation across virtualised ystems.
 
