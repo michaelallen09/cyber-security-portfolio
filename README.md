@@ -5,10 +5,7 @@
 
 I am a recent Cyber Security BSc (Hons) graduate with over five years’ experience in IT engineering across cloud-first environments. My professional background includes infrastructure support, identity management, and endpoint administration, which has provided direct exposure to security controls, incident handling, and system hardening.
 
-
 I'm currently seeking an entry-level role within IT security where I can apply both operational experience and academic knowledge in a security-focused capacity.
-
-This repository documents structured lab environments demonstrating deployment, log ingestion, baseline monitoring, attack simulation, and defensive validation across virtualised ystems.
 
 ---
 
