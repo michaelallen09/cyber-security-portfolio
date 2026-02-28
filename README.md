@@ -32,8 +32,9 @@ Structured SIEM deployment focused on log ingestion and baseline monitoring.
 - Sysmon telemetry collection
 - Ingestion validation
 - Baseline SPL detections (auth + process activity)
-  
+
 [Splunk Deployment Lab](Splunk_Deployment_Lab)
+
 ---
 
 ## Education
