@@ -1,0 +1,33 @@
+## 3. Log Ingestion Validation
+
+After completing the setup, ingestion testing was performed to confirm that endpoint logs were successfully reaching Splunk.
+
+### 3.1 Sourcetype Verification
+
+The custom index was queried to confirm that data was being received:
+
+```spl
+index=win11_endpoint_logs
+| stats count by sourcetype
+```
+
+
+The results showed that both Windows Security logs and Sysmon logs were present in the index.
+
+---
+
+### 3.2 Basic Search Confirmation
+
+A general search was performed to ensure events were searchable:
+
+```spl
+index=win11_endpoint_logs
+```
+
+![Raw Index Search](images/raw-index.png)
+
+The search results confirmed that authentication events and system activity from the Windows endpoint were being ingested correctly.
+
+---
+
+These checks confirmed that the log pipeline from the Windows machine to Splunk was functioning as expected and ready for baseline monitoring.
