@@ -1,6 +1,6 @@
 # Splunk Deployment Lab
 
-This project documents the deployment of a small-scale SIEM environment within a controlled virtual lab. The objective was to build a working log collection setup using Splunk Enterprise and validate baseline monitoring capability.
+This project documents the deployment of a small-scale SIEM environment within a controlled virtual lab. The objective was to build a working log collection setup using Splunk Enterprise and validate basic monitoring capability.
 
 ---
 
@@ -21,7 +21,7 @@ This project documents the deployment of a small-scale SIEM environment within a
 
 A virtualised monitoring environment was created using:
 
-- Ubuntu 22.04 (Splunk Enterprise)
+- Ubuntu server 22.04 (Splunk Enterprise)
 - Windows 11 Endpoint
 - Splunk Universal Forwarder
 - Sysmon (enhanced telemetry)
@@ -55,7 +55,7 @@ This ensured the ingestion pipeline was operational before detection testing.
 
 ---
 
-### 4. Baseline Detection Queries
+### 4. Basic Detection Queries
 
 Basic monitoring queries were created to validate detection capability:
 
