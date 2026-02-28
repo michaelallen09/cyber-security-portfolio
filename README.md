@@ -13,8 +13,6 @@ I'm currently seeking an entry-level role within IT security where I can apply b
 
 ### Cloud Security: Man-in-the-Cloud (MitC) Lab
 
-Cloud-based attack simulation and defensive control validation.
-
 - Virtualised lab design and environment configuration  
 - Token-based session hijacking simulation  
 - IDS/IPS visibility assessment  
