@@ -1,4 +1,4 @@
-# Splunk SIEM Deployment and Baseline Monitoring Lab
+# Splunk Deployment Lab
 
 This project documents the deployment of a small-scale SIEM environment within a controlled virtual lab. The objective was to build a functional log ingestion pipeline using Splunk Enterprise and validate baseline monitoring capability before progressing to more advanced detection development.
 
