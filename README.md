@@ -23,7 +23,7 @@ I'm currently seeking an entry-level role within IT security where I can apply b
 
 ---
 
-### Splunk SIEM Deployment Lab (in progress)
+### Splunk SIEM Deployment Lab
 
 Structured SIEM deployment focused on log ingestion and baseline monitoring.
 
