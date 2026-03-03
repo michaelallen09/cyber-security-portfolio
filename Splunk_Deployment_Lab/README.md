@@ -1,4 +1,4 @@
-# Splunk Deployment Lab
+# Splunk SIEM Deployment Lab
 
 This project documents the deployment of a small-scale SIEM environment within a controlled virtual lab. The objective was to build a working log collection setup using Splunk Enterprise and validate basic monitoring capability.
 
